@@ -1,3 +1,6 @@
+## Don't include the latex style file for this repository
+*.sty
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
