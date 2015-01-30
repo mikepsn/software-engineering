@@ -18,4 +18,4 @@ The first presentation is a lecture on Software Architecture and
 Architectural Design which I gave in 2003 to a 3rd year undegraduate Software
 Engineering class. 
 
-* [Software Architectural Design (PDF)] 
+* [Software Architectural Design (PDF)](https://github.com/mikepsn/software-engineering/blob/master/architecture.pdf?raw=true)
