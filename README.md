@@ -19,3 +19,8 @@ Architectural Design which I gave in 2003 to a 3rd year undegraduate Software
 Engineering class. 
 
 * [Software Architectural Design (PDF)](https://github.com/mikepsn/software-engineering/blob/master/architecture.pdf?raw=true)
+
+The second presentation is the follow up lecture to the Architectural Design
+lecture. This one focuses on using UML for detailed software design. 
+
+* [Detailed Design with UML (PDF)](https://github.com/mikepsn/software-engineering/blob/master/uml.pdf?raw=true)
