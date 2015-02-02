@@ -24,3 +24,10 @@ The second presentation is the follow up lecture to the Architectural Design
 lecture. This one focuses on using UML for detailed software design. 
 
 * [Detailed Design with UML (PDF)](https://github.com/mikepsn/software-engineering/blob/master/uml.pdf?raw=true)
+
+The next set of slides was presented to a group of computational scientists,
+operations researchers and analysts undertaking modelling and simulation.
+The slides are gentle introduction to some relevant Software Engineering
+concepts. The presentatio is from May 2003. 
+
+* [Software Engineering Concepts (PDF)](https://github.com/mikepsn/software-engineering/blob/master/softeng.pdf?raw=true)
