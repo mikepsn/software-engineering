@@ -28,6 +28,6 @@ lecture. This one focuses on using UML for detailed software design.
 The next set of slides was presented to a group of computational scientists,
 operations researchers and analysts undertaking modelling and simulation.
 The slides are gentle introduction to some relevant Software Engineering
-concepts. The presentatio is from May 2003. 
+concepts. The presentation is from May 2003. 
 
 * [Software Engineering Concepts (PDF)](https://github.com/mikepsn/software-engineering/blob/master/softeng.pdf?raw=true)
